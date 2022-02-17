@@ -46,7 +46,6 @@ booktitle = {UAI 2021}
 Titel : Code Representation Based on Hybrid Graph Modelling
 ```
 {
-title={Code Representation Based on Hybrid Graph Modelling},
 author={Wu, Qiong and Jiang, Xue and **Zheng, Zhuoran** and Gao, Xuejian and Lyu, Chen and Lyu, Lei},
 booktitle={ICNIP},
 year={2021}
