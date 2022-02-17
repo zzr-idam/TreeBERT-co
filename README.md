@@ -35,7 +35,20 @@ python __main__.py -td /home/pretrain_data_AST_train/ -vd /home/pretrain_data_AS
 ```
 
 ## Cite
+```
+{
 author = {Xue Jiang and **Zhuoran Zheng** and Chen Lyu and Liang Li and Lei Lyu},
 title  = {TreeBERT: {A} tree-based pre-trained model for programming language},
 booktitle = {UAI 2021}
-
+}
+```
+##  Other work
+Titel : Code Representation Based on Hybrid Graph Modelling
+```
+{
+title={Code Representation Based on Hybrid Graph Modelling},
+author={Wu, Qiong and Jiang, Xue and **Zheng, Zhuoran** and Gao, Xuejian and Lyu, Chen and Lyu, Lei},
+booktitle={ICNIP},
+year={2021}
+}
+```
